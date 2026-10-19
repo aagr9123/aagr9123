@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://t.me/angeles_9" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-@angeles__9-orange?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Telegram-@angeles__9-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
   <a href="https://linkedin.com"><img src="https://shields.io" /></a>
   <a href="mailto:tu-correo@gmail.com"><img src="https://shields.io" /></a>
