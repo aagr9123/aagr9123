@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Telegram-@angeles__9-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
   <a href="https://www.linkedin.com/in/andrea-guti%C3%A9rrez-431560403" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Andrea_Guti%C3%A9rrez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Andrea_Guti%C3%A9rrez-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white" alt="LinkedIn" />
 </a>
   <a href="mailto:tu-correo@gmail.com"><img src="https://shields.io" /></a>
 </p>
