@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
 
-<!--
-**aagr9123/aagr9123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://t.me"><img src="https://shields.io" /></a>
+  <a href="https://linkedin.com"><img src="https://shields.io" /></a>
+  <a href="mailto:tu-correo@gmail.com"><img src="https://shields.io" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Bienvenida a mi Página 📋
+
+👋 ¡Hola! Soy Andrea, Ingeniera en Sistemas residenciada en Venezuela 🇻🇪. Me apasiona el desarrollo de software y la resolución de problemas lógicos a través del código limpio.
+
+### ⚙️ Estas son algunas de las herramientas que utilizo:
+
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://vercel.app" alt="Andrea's GitHub Stats" width="52%" />
+  <img src="https://vercel.app" alt="Most Used Languages" width="43%" />
+</p>
