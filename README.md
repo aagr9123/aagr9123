@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me"><img src="https://shields.io" /></a>
+  <a href="https://t.me/angeles_9"><img src="https://shields.io" /></a>
   <a href="https://linkedin.com"><img src="https://shields.io" /></a>
   <a href="mailto:tu-correo@gmail.com"><img src="https://shields.io" /></a>
 </p>
@@ -12,8 +12,7 @@
 
 ## 💻 Bienvenida a mi Página 📋
 
-👋 ¡Hola! Soy Andrea, Ingeniera en Sistemas residenciada en Venezuela 🇻🇪. Me apasiona el desarrollo de software y la resolución de problemas lógicos a través del código limpio.
-
+👋 ¡Hola! Soy Andrea, Ingeniera en Sistemas residenciada en Venezuela 🇻🇪. 
 ### ⚙️ Estas son algunas de las herramientas que utilizo:
 
 <p align="left">
