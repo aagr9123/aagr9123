@@ -4,11 +4,12 @@
 
 <p align="center">
   <a href="https://t.me/angeles_9" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-@angeles__9-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
+    <img src="https://img.shields.io/badge/Telegram-%40angeles__9-orange?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
   <a href="https://www.linkedin.com/in/andrea-guti%C3%A9rrez-431560403" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Andrea_Gutierrez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-Andrea_Gutierrez-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
   <a href="mailto:tu-correo@gmail.com"><img src="https://shields.io" /></a>
 </p>
 
