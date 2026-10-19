@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <img width="600" alt="Portada de Github" src="https://github.com/user-attachments/assets/d7e281a9-8d4f-4060-aee3-96fa91f839ae" />
 </p>
 
 <p align="center">
