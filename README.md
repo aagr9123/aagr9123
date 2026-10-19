@@ -9,10 +9,11 @@
   <a href="https://www.linkedin.com/in/andrea-guti%C3%A9rrez-431560403" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Andrea_Gutierrez-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
- <a href="mailto:workaagr@gmail.com" target="_blank">
+  <a href="mailto:workaagr@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-workaagr%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
+</p>
+
 
 ---
 
