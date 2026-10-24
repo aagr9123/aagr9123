@@ -30,11 +30,3 @@
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
----
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://vercel.app" alt="Andrea's GitHub Stats" width="52%" />
-  <img src="https://vercel.app" alt="Most Used Languages" width="43%" />
-</p>
